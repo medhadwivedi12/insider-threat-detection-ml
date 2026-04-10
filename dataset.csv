@@ -1,0 +1,9 @@
+login_attempts,file_access_count,unusual_activity,label
+2,5,0,normal
+10,50,1,threat
+3,7,0,normal
+15,80,1,threat
+1,3,0,normal
+20,100,1,threat
+5,10,0,normal
+18,90,1,threat
